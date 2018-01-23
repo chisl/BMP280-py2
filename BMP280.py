@@ -6,17 +6,22 @@ __author__     = "ChISL"
 __copyright__  = "TBD"
 __credits__    = ["Bosch Sensortec"]
 __license__    = "TBD"
-__version__    = "0.1"
+__version__    = "Version 0.1"
 __maintainer__ = "https://chisl.io"
 __email__      = "info@chisl.io"
 __status__     = "Test"
+
+#
+#   THIS FILE IS AUTOMATICALLY CREATED
+#    D O     N O T     M O D I F Y  !
+#
 
 from BMP280_constants import *
 
 # name:        BMP280
 # description: The BMP280 is an absolute barometric pressure sensor especially designed for mobile applications.
 # manuf:       Bosch Sensortec
-# version:     0.1
+# version:     Version 0.1
 # url:         https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-18.pdf
 # date:        2017-09-02
 
